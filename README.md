@@ -1,3 +1,13 @@
+![](https://expertdesign.cc/hulu-images/dekstop.jpg)
+
+## Smartphone
+
+![](https://expertdesign.cc/hulu-images/mobile.jpg)
+
+##
+
+## It's Live 🚀 Visit here ==> https://hulu-clone-seven-nu.vercel.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
